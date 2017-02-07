@@ -36,9 +36,7 @@ description: "Agency Implementation Plans"
 
 # Public FITARA April 30th Milestone Updates
 
-* [Department of Agriculture](http://www.usda.gov/digitalstrategy/fitaramilestones.json)	 	 	 	 	 	 	 
-* [Department of Commerce](https://www.commerce.gov/sites/commerce.gov/files/fitaramilestones.json)	 	 	 	
-* Department of Defense 	 	 	 	 	 	 
+
 * [Department of Education](http://www2.ed.gov/digitalstrategy/fitaramilestones.json)	 	 	 	 	 	 
 * Department of Energy	 	 	 	 	 	 	 
 * [Department of Health and Human Services](http://www.hhs.gov/digitalstrategy/fitaramilestones.json)	 	 	 	 	 	 	 
